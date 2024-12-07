@@ -38,7 +38,7 @@ The objectives of this analysis are as follows.
 
 **Excel functions**: Used various functions such as sum, count, and more for data analysis and manipulation.
 
-**Data Analysis**: Used Excel features and functions for data analysis including conditional formatting such as using the "If"statement to replace "M" and "F"represented as gender with "Male"and "Female", and customer types represented by "1"and "0"with "Normal" and "Member".
+**Data Analysis**: Used Excel features and functions for data analysis including conditional formatting such as using the "If"statement to replace "M" and "F"represented as gender with "Male"and "Female", and customer types represented by "0"and "1"with "Normal" and "Member".
 
 ```Excel
 =IF([@[Customer type]]=0,"Normal","Member")
